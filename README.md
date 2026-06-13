@@ -1,4 +1,4 @@
-# 🛒 Olist Customer Intelligence — RFM Segmentation & Revenue Analysis
+#  Olist Customer Intelligence — RFM Segmentation & Revenue Analysis
 
 > Analyzed 100,000+ real Brazilian e-commerce orders to identify customer segments, revenue patterns, and retention problems.
 
@@ -15,7 +15,7 @@ Olist has 100k+ orders but no visibility into customer behavior. This project an
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 **OLIST Brazilian E-commerce** — [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
@@ -25,7 +25,7 @@ Olist has 100k+ orders but no visibility into customer behavior. This project an
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -68,7 +68,7 @@ olist-customer-intelligence/
 
 ---
 
-## 🔍 What I Did
+##  What I Did
 
 ### 1. Data Engineering
 - Loaded and explored all 9 CSVs
@@ -107,7 +107,7 @@ olist-customer-intelligence/
 
 ---
 
-## 📈 Dashboard
+##  Dashboard
 
 4-page Power BI dashboard:
 
@@ -142,7 +142,7 @@ jupyter notebook
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 1. **Re-engage at-risk segment (22K customers)** — email campaign with discount, targeting customers with high past spend but no recent orders
 2. **Fix Month-1 retention** — post-purchase follow-up sequence within 30 days; current <1% is the biggest revenue leak
